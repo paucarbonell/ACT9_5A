@@ -17,7 +17,5 @@ public class Credit extends Tarjeta{
 
     public void setImportEnNegatiu(double importEnNegatiu) {
         this.importEnNegatiu = importEnNegatiu;
-    }
- 
-    
+    }   
 }
